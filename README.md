@@ -1,5 +1,11 @@
 # Breast Cancer Data Preprocessing Pipeline
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/McNamara10/breast-cancer-preprocessing-pipeline/blob/main/project_pre_processing_rilevazione_tumore_al_seno.ipynb)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.0%2B-150458?logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 Multi-pipeline preprocessing system for a breast cancer detection dataset, built as a Data Engineering exam project. The goal is to produce a clean, analysis-ready dataset for downstream machine learning models.
 
 ---
